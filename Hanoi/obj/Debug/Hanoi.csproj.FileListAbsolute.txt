@@ -1,0 +1,3 @@
+E:\Lesson\C#\Hanoi\Hanoi\bin\Debug\Week02_1.exe.config
+E:\Lesson\C#\Hanoi\Hanoi\obj\Debug\Week02_1.exe
+E:\Lesson\C#\Hanoi\Hanoi\obj\Debug\Week02_1.pdb
